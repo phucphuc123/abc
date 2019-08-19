@@ -1,4 +1,6 @@
-<?php isset($_CONFIG) or die('No direct access allowed.');
+<?php
+
+ isset($_CONFIG) or die('No direct access allowed.');
 
 // ------------------------------------------------------------------------
 // LOOKING GLASS CONFIGURATIONS
